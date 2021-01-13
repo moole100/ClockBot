@@ -1,0 +1,347 @@
+1610456855260	geckodriver	INFO	Listening on 127.0.0.1:35573
+1610456855275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekUcHYk"
+
+(firefox:11636): Gtk-WARNING **: 22:07:35.327: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:11636): Gtk-WARNING **: 22:07:35.345: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:07:35.364: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:35.861: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:35.875: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:07:35.904: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:35.973: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:35.989: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:07:36.012: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:36.029: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:36.029: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:36.029: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:36.029: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11705): Gtk-WARNING **: 22:07:36.030: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:36.164: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:36.164: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:36.165: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:36.165: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11729): Gtk-WARNING **: 22:07:36.165: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:11636): GLib-GIO-WARNING **: 22:07:36.228: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1610456856761	Marionette	INFO	Listening on port 32939
+1610456856834	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:36.953: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:36.965: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:07:36.984: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:37.079: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:37.079: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:37.079: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:37.079: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:11824): Gtk-WARNING **: 22:07:37.080: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.784: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.818: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:08:33.847: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.964: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.964: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.964: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.964: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:12007): Gtk-WARNING **: 22:08:33.964: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1610456917254	Marionette	INFO	Stopped listening on port 32939
+1610457509989	geckodriver	INFO	Listening on 127.0.0.1:57879
+1610457509992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVa4xqU"
+
+(firefox:12992): Gtk-WARNING **: 22:18:30.011: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:12992): Gtk-WARNING **: 22:18:30.024: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:18:30.043: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.528: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.539: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:18:30.558: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.595: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.607: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:18:30.637: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.674: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.674: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.675: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.675: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13065): Gtk-WARNING **: 22:18:30.675: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.762: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.762: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.762: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.762: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13086): Gtk-WARNING **: 22:18:30.762: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:12992): GLib-GIO-WARNING **: 22:18:30.823: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+1610457511448	Marionette	INFO	Listening on port 33711
+1610457511548	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.636: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.656: Theme parsing error: gtk.css:2:33: Failed to import: Error opening file /home/wieerd/.config/gtk-3.0/window_decorations.css: No such file or directory
+Gtk-Message: 22:18:31.675: Failed to load module "appmenu-gtk-module"
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.781: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.781: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.781: Theme parsing error: gtk.css:71:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.782: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:13182): Gtk-WARNING **: 22:18:31.782: Theme parsing error: gtk.css:76:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1610457582097	geckodriver	INFO	Listening on 127.0.0.1:40719
+1610457582100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSoRdtL"
+*** You are running in headless mode.
+
+(firefox:13358): Gtk-WARNING **: 22:19:42.120: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:13358): GLib-GObject-WARNING **: 22:19:42.292: invalid (NULL) pointer instance
+
+(firefox:13358): GLib-GObject-CRITICAL **: 22:19:42.292: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13424): GLib-GObject-WARNING **: 22:19:42.548: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13424): GLib-GObject-CRITICAL **: 22:19:42.549: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13445): GLib-GObject-WARNING **: 22:19:42.637: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13445): GLib-GObject-CRITICAL **: 22:19:42.639: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610457583130	Marionette	INFO	Listening on port 40931
+1610457583239	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13539): GLib-GObject-WARNING **: 22:19:43.554: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13539): GLib-GObject-CRITICAL **: 22:19:43.556: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1610457661915	geckodriver	INFO	Listening on 127.0.0.1:50935
+1610457661918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem3iP5V"
+*** You are running in headless mode.
+
+(firefox:13678): Gtk-WARNING **: 22:21:01.937: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:13678): GLib-GObject-WARNING **: 22:21:02.111: invalid (NULL) pointer instance
+
+(firefox:13678): GLib-GObject-CRITICAL **: 22:21:02.111: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13739): GLib-GObject-WARNING **: 22:21:02.367: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13739): GLib-GObject-CRITICAL **: 22:21:02.368: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13762): GLib-GObject-WARNING **: 22:21:02.462: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13762): GLib-GObject-CRITICAL **: 22:21:02.463: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610457662954	Marionette	INFO	Listening on port 33031
+1610457663034	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13855): GLib-GObject-WARNING **: 22:21:03.373: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13855): GLib-GObject-CRITICAL **: 22:21:03.374: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1610457683658	geckodriver	INFO	Listening on 127.0.0.1:45395
+1610457683661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCf7X6P"
+*** You are running in headless mode.
+
+(firefox:13924): Gtk-WARNING **: 22:21:23.680: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:13924): GLib-GObject-WARNING **: 22:21:23.858: invalid (NULL) pointer instance
+
+(firefox:13924): GLib-GObject-CRITICAL **: 22:21:23.858: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:13990): GLib-GObject-WARNING **: 22:21:24.125: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:13990): GLib-GObject-CRITICAL **: 22:21:24.126: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14011): GLib-GObject-WARNING **: 22:21:24.216: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14011): GLib-GObject-CRITICAL **: 22:21:24.217: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610457684730	Marionette	INFO	Listening on port 44391
+1610457684785	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14102): GLib-GObject-WARNING **: 22:21:25.135: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14102): GLib-GObject-CRITICAL **: 22:21:25.136: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1610457717298	geckodriver	INFO	Listening on 127.0.0.1:48577
+1610457717301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYeKjr5"
+*** You are running in headless mode.
+
+(firefox:14183): Gtk-WARNING **: 22:21:57.320: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:14183): GLib-GObject-WARNING **: 22:21:57.494: invalid (NULL) pointer instance
+
+(firefox:14183): GLib-GObject-CRITICAL **: 22:21:57.494: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14249): GLib-GObject-WARNING **: 22:21:57.750: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14249): GLib-GObject-CRITICAL **: 22:21:57.751: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14270): GLib-GObject-WARNING **: 22:21:57.836: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14270): GLib-GObject-CRITICAL **: 22:21:57.837: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610457718326	Marionette	INFO	Listening on port 44571
+1610457718444	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14362): GLib-GObject-WARNING **: 22:21:58.778: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14362): GLib-GObject-CRITICAL **: 22:21:58.779: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1610457740263	geckodriver	INFO	Listening on 127.0.0.1:56771
+1610457740267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile784FiR"
+*** You are running in headless mode.
+
+(firefox:14429): Gtk-WARNING **: 22:22:20.285: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(firefox:14429): GLib-GObject-WARNING **: 22:22:20.459: invalid (NULL) pointer instance
+
+(firefox:14429): GLib-GObject-CRITICAL **: 22:22:20.460: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14491): GLib-GObject-WARNING **: 22:22:20.717: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14491): GLib-GObject-CRITICAL **: 22:22:20.718: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:14512): GLib-GObject-WARNING **: 22:22:20.804: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14512): GLib-GObject-CRITICAL **: 22:22:20.805: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610457741335	Marionette	INFO	Listening on port 41765
+1610457741382	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14606): GLib-GObject-WARNING **: 22:22:21.758: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:14606): GLib-GObject-CRITICAL **: 22:22:21.760: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
